@@ -61,15 +61,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\App\Scripts\CameraMove.cs" />
-    <Compile Include="Assets\App\Scripts\CellAttribute.cs" />
-    <Compile Include="Assets\App\Scripts\CellsManage.cs" />
-    <Compile Include="Assets\App\Scripts\Drag.cs" />
-    <Compile Include="Assets\App\Scripts\emu.cs" />
-    <Compile Include="Assets\App\Scripts\Grid.cs" />
-    <Compile Include="Assets\App\Scripts\SetMap.cs" />
-    <Compile Include="Assets\App\Scripts\Test.cs" />
-    <Compile Include="Assets\App\Scripts\Test_.cs" />
     <Compile Include="Assets\DOTween\Modules\DOTweenModuleAudio.cs" />
     <Compile Include="Assets\DOTween\Modules\DOTweenModulePhysics.cs" />
     <Compile Include="Assets\DOTween\Modules\DOTweenModulePhysics2D.cs" />

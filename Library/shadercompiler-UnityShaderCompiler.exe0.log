@@ -1,5 +1,88 @@
 Base path: C:/Program Files/Unity/Editor/Data
 Cmd: initializeCompiler
+Cmd: preprocess
+  insize=2524 outsize=963 ok=1
+Cmd: preprocess
+  insize=1739 outsize=578 ok=1
+Cmd: preprocess
+  insize=3107 outsize=1003 ok=1
+Cmd: preprocess
+  insize=2518 outsize=567 ok=1
+Cmd: preprocess
+  insize=2183 outsize=1002 ok=1
+Cmd: preprocess
+  insize=3745 outsize=2476 ok=1
+Cmd: preprocess
+  insize=2145 outsize=565 ok=1
+Cmd: preprocess
+  insize=1596 outsize=594 ok=1
+Cmd: preprocess
+  insize=12073 outsize=1961 ok=1
+Cmd: preprocess
+  insize=2254 outsize=883 ok=1
+Cmd: preprocess
+  insize=11647 outsize=1949 ok=1
+Cmd: preprocess
+  insize=2639 outsize=623 ok=1
+Cmd: preprocess
+  insize=2554 outsize=1744 ok=1
+Cmd: preprocess
+  insize=2264 outsize=621 ok=1
+Cmd: preprocess
+  insize=4923 outsize=2750 ok=1
+Cmd: preprocess
+  insize=1563 outsize=697 ok=1
+Cmd: preprocess
+  insize=1637 outsize=947 ok=1
+Cmd: preprocess
+  insize=1666 outsize=716 ok=1
+Cmd: preprocess
+  insize=2899 outsize=965 ok=1
+Cmd: preprocess
+  insize=2347 outsize=976 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1226 outsize=834 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1226 outsize=374 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1059 outsize=974 kw=UNITY_PASS_SHADOWCASTER SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1059 outsize=430 kw=UNITY_PASS_SHADOWCASTER SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=1824 outsize=993 ok=1
+Cmd: preprocess
+  insize=1725 outsize=621 ok=1
+Cmd: preprocess
+  insize=1593 outsize=564 ok=1
+Cmd: preprocess
+  insize=10027 outsize=1639 ok=1
+Cmd: preprocess
+  insize=2732 outsize=1002 ok=1
+Cmd: preprocess
+  insize=1975 outsize=963 ok=1
+Cmd: preprocess
+  insize=2666 outsize=581 ok=1
+Cmd: preprocess
+  insize=1630 outsize=594 ok=1
+Cmd: preprocess
+  insize=1595 outsize=954 ok=1
+Cmd: preprocess
+  insize=1451 outsize=551 ok=1
+Cmd: preprocess
+  insize=1648 outsize=1001 ok=1
+Cmd: preprocess
+  insize=1445 outsize=577 ok=1
+Cmd: preprocess
+  insize=1393 outsize=570 ok=1
+Cmd: preprocess
+  insize=2291 outsize=579 ok=1
+Cmd: preprocess
+  insize=2954 outsize=1293 ok=1
+Cmd: preprocess
+  insize=11964 outsize=2148 ok=1
+Cmd: preprocess
+  insize=2729 outsize=1252 ok=1
+Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEditor", "MapEditor.csproj", "{4AC50919-76EB-8813-D6C3-5C1E3F4AB90C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaughtyAttributes.Core", "NaughtyAttributes.Core.csproj", "{4A127670-A1F2-C079-2BA4-6EFF50F7CF30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEditor.Plugins", "MapEditor.Plugins.csproj", "{4FE3CE5D-EDC2-276F-6C39-0AD63C1C4C50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaughtyAttributes.Editor", "NaughtyAttributes.Editor.csproj", "{BDEAC04B-AD33-BEA0-5EF8-B0E21A68CCFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEditor.Editor", "MapEditor.Editor.csproj", "{E78261AB-08FB-8E5E-9567-9C0AAB778DA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapEditor.Editor.Plugins", "MapEditor.Editor.Plugins.csproj", "{658404BD-595A-6E06-4F2D-32300E22F66E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC50919-76EB-8813-D6C3-5C1E3F4AB90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC50919-76EB-8813-D6C3-5C1E3F4AB90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC50919-76EB-8813-D6C3-5C1E3F4AB90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC50919-76EB-8813-D6C3-5C1E3F4AB90C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A127670-A1F2-C079-2BA4-6EFF50F7CF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A127670-A1F2-C079-2BA4-6EFF50F7CF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A127670-A1F2-C079-2BA4-6EFF50F7CF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A127670-A1F2-C079-2BA4-6EFF50F7CF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE3CE5D-EDC2-276F-6C39-0AD63C1C4C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE3CE5D-EDC2-276F-6C39-0AD63C1C4C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE3CE5D-EDC2-276F-6C39-0AD63C1C4C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE3CE5D-EDC2-276F-6C39-0AD63C1C4C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDEAC04B-AD33-BEA0-5EF8-B0E21A68CCFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEAC04B-AD33-BEA0-5EF8-B0E21A68CCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEAC04B-AD33-BEA0-5EF8-B0E21A68CCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEAC04B-AD33-BEA0-5EF8-B0E21A68CCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78261AB-08FB-8E5E-9567-9C0AAB778DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78261AB-08FB-8E5E-9567-9C0AAB778DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78261AB-08FB-8E5E-9567-9C0AAB778DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78261AB-08FB-8E5E-9567-9C0AAB778DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658404BD-595A-6E06-4F2D-32300E22F66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658404BD-595A-6E06-4F2D-32300E22F66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658404BD-595A-6E06-4F2D-32300E22F66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658404BD-595A-6E06-4F2D-32300E22F66E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
